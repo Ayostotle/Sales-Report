@@ -11,6 +11,9 @@
 
 This project uses Power BI to analyze sales methods, regional and provincial sales, and category performance, aiming to deliver insights and support a deeper understanding of the company’s overall performance for informed decision-making and strategic planning.
 
+![dasboard image](https://github.com/user-attachments/assets/1af2c398-31c5-4605-a3a4-bcefa5ed5bbd)
+
+
 ### Data source
 
 Sales Data: The data source is "Excel files" containing detailed records of each sale made by the company.
