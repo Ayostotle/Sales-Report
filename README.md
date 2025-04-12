@@ -9,6 +9,8 @@
 
 ### Project Overview
 
+---
+
 This project uses Power BI to analyze sales methods, regional and provincial sales, and category performance, aiming to deliver insights and support a deeper understanding of the company’s overall performance for informed decision-making and strategic planning.
 
 ![dasboard image](https://github.com/user-attachments/assets/1af2c398-31c5-4605-a3a4-bcefa5ed5bbd)
@@ -75,7 +77,18 @@ Based on the analysis , we recommend the following actions:
 A key limitation is the removal of zero values from the dataset to avoid distortion in analysis and accuracy. This may lead to the exclusion of low-activity areas or products, potentially affecting a full representation of sales performance.
 
 
-###Reference
+### Reference
 
 1. 4 Marketing Mix By Oke
 2.  [Stack Overflow](https://stack.com)
+
+😄
+
+🖥️
+
+|Heading1|Heading2|
+|--------|--------|
+|content|Content2|
+|Excel|PowerBI|
+
+
