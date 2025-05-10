@@ -76,19 +76,7 @@ Based on the analysis , we recommend the following actions:
 
 A key limitation is the removal of zero values from the dataset to avoid distortion in analysis and accuracy. This may lead to the exclusion of low-activity areas or products, potentially affecting a full representation of sales performance.
 
-
-### Reference
-
-1. 4 Marketing Mix By Oke
-2.  [Stack Overflow](https://stack.com)
-
 😄
 
-🖥️
-
-|Heading1|Heading2|
-|--------|--------|
-|content|Content2|
-|Excel|PowerBI|
 
 
