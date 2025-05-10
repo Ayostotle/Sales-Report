@@ -51,7 +51,9 @@ Here are 5 key questions this Power BI project aims to answer:
 
   Include somes interesting code/feautes worked with
 
-  XLOOKUP(P12,A1:A12,B2:D12)
+  Xlookup
+  Power Query
+  Dax Functions for new measure
 
 
   ### Results/Findings
